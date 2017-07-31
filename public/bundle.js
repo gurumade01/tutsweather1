@@ -27265,14 +27265,6 @@
 
 	var React = __webpack_require__(1);
 
-	// var Example = React.createClass({
-	//   render: function() {
-	//     return(
-	//       <h2>Example Component</h2>
-	//     );
-	//   }
-	// });
-
 	var Example = function Example(props) {
 	  return React.createElement(
 	    'h2',
